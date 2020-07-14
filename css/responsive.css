@@ -1,0 +1,44 @@
+@media screen and (max-width: 760px) {
+    /***** header ****/
+    .headerMid{
+     padding-top: 10px !important;
+    
+    }
+    .headerMid h1{
+        font-size: 30px !important;
+    }
+    .navbar-brand img {
+        width: 50%;
+    }
+    .headerMid p{
+        padding: 10px 5px;
+    }
+     /***** menu ****/
+     .popular-menu .card{
+         margin: 10px 0;
+     }
+     .discountFeature{
+        background-color: #fff;
+        width: 100%;
+        height: 100% !important;
+    }
+     .discountFeature h1{
+        font-weight: bold;
+        font-size: 30px !important;
+        padding: 100px 90px 20px 50px !important;
+    }
+    .discountFeature{
+     
+    }
+    .discount img{
+        margin-top: 20px !important;
+    }
+    
+    .shape{
+        position: absolute;
+        top: 24% !important;
+        left: 30% !important;
+        z-index: 1;
+    }
+    
+  }
